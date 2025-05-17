@@ -1,4 +1,8 @@
-# MoneyPrinterTurbo README
+# MoneyPrinterTurbo
+
+## Important Updates
+Conflicts in requirements.txt Resolved
+We have addressed the version conflicts in the requirements.txt file. The updated file ensures compatibility between all dependencies. If you encounter any issues during installation, please pull the latest version from the repository.
 
 ## Introduction
 
